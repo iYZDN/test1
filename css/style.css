@@ -1,0 +1,52 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+
+
+
+
+}
+
+header>ul>li{
+color: aliceblue;
+  background-color: rgb(0, 0, 0);
+  font-size: 2rem;
+/* line-height: 200px; */
+text-align: center;
+/* letter-spacing: 90%; */
+line-break: normal;
+}
+
+
+ul{
+list-style-type:none ;
+margin: 0;
+padding: 0;
+overflow: hidden;
+vertical-align: auto;
+
+}
+li{
+
+  /* float: left; */
+  text-align: ;
+  vertical-align: auto;
+flex-flow: inherit;
+
+}
+
+
+
+li a{
+
+display: block;
+color: white;
+text-align: center;
+padding: 16px;
+text-decoration: none;
+
+
+
+}
